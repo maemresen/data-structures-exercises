@@ -1,4 +1,4 @@
-package com.maemresen.datastructure;
+package com.maemresen.datastructure.exercise;
 
 public class Test {
 	public static void main (String[] args) {
